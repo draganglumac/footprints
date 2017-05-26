@@ -1,0 +1,10 @@
+[
+  { 
+    "method": "GET",
+    "urlPattern": "/example/:paw/print/*"
+  },
+  { 
+    "method": "POST",
+    "urlPattern": "/example/:claw/mark/:hoof/print/*"
+  }
+]
