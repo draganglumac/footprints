@@ -10,3 +10,10 @@ $> npm install
 $> node .
 ```
 and you're away.
+
+By default, the server runs on port 15432, but you can change it via a command line parameter like so
+
+```
+$> node . --port=8008
+```
+
